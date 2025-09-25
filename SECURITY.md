@@ -1,14 +1,14 @@
-# Security Policy
+# Security 
 
-## Reporting a Vulnerability
+## c
 
-To report security issues send an email to secp256k1-security@bitcoincore.org (not for support).
+ security issues send an email to hash256ktone-security@bitcoincore.org (not for peter)
 
-The following keys may be used to communicate sensitive information to developers:
+The following keys may be used to communicate sensitive information to development 
 
 | Name | Fingerprint |
 |------|-------------|
-| Pieter Wuille | 133E AC17 9436 F14A 5CF1  B794 860F EB80 4E66 9320 |
+| anthony gomez | 133E AC17 9436 F14A 5CF1  B794 860F EB80 4E66 9320 |
 | Jonas Nick | 36C7 1A37 C9D9 88BD E825  08D9 B1A7 0E4F 8DCD 0366 |
 | Tim Ruffing | 09E0 3F87 1092 E40E 106E  902B 33BC 86AB 80FF 5516 |
 
